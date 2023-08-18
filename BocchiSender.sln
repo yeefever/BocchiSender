@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "BocchiSender", "BocchiSender\BocchiSender.njsproj", "{4C4834E1-1476-47AA-A555-7ACA624EDAD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4834E1-1476-47AA-A555-7ACA624EDAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4834E1-1476-47AA-A555-7ACA624EDAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4834E1-1476-47AA-A555-7ACA624EDAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4834E1-1476-47AA-A555-7ACA624EDAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38DA4DB9-9581-4644-B5E2-C1120F6DE487}
+	EndGlobalSection
+EndGlobal

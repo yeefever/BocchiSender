@@ -1,0 +1,17 @@
+{
+  "name": "bocchi-sender",
+  "version": "0.0.0",
+  "description": "BocchiSender",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "pixiv-api-client": "^0.25.0",
+    "puppeteer": "^21.0.3"
+  }
+}
