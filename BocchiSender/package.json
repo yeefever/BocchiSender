@@ -11,7 +11,9 @@
   },
   "eslintConfig": {},
   "dependencies": {
+    "fs": "^0.0.1-security",
     "pixiv-api-client": "^0.25.0",
-    "puppeteer": "^21.0.3"
+    "puppeteer": "^21.0.3",
+    "selenium-webdriver": "^4.11.1"
   }
 }

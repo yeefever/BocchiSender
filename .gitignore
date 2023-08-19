@@ -364,3 +364,9 @@ FodyWeavers.xsd
 
 #Config file
 config_file.json
+
+#screen_shot
+screen_shot.png
+
+#webpage
+webpage.html
