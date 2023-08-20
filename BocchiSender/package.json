@@ -7,12 +7,15 @@
     "name": ""
   },
   "devDependencies": {
-    "eslint": "^8.21.0"
+    "eslint": "^8.47.0"
   },
   "eslintConfig": {},
   "dependencies": {
+    "dom-parser": "^0.1.6",
     "fs": "^0.0.1-security",
+    "node-cron": "^3.0.2",
     "pixiv-api-client": "^0.25.0",
+    "pupeteer": "^0.0.1",
     "puppeteer": "^21.0.3",
     "selenium-webdriver": "^4.11.1"
   }
